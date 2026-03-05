@@ -28,7 +28,7 @@ import net.minecraft.client.gui.screen.world.*;
 import net.minecraft.client.realms.gui.screen.RealmsScreen;
 import net.minecraft.util.Pair;
 import net.minecraft.util.Util;
-import meteordevelopment.starscript.Script;
+import org.meteordev.starscript.Script;
 import xyz.thm.addon.THMAddon;
 
 import java.util.ArrayList;
